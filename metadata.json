@@ -1,0 +1,5 @@
+{
+  "name": "DTB Budget - ภัทรพร",
+  "description": "A web application for managing project budgets for the Tuberculosis Division, covering project creation, budget planning, progress reporting, and summary views.",
+  "requestFramePermissions": []
+}
